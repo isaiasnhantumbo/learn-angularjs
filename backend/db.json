@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 120.5
+    },
+    {
+      "id": 2,
+      "name": "MackBook Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Casio",
+      "price": 1200.5
+    },
+    {
+      "name": "All star",
+      "price": 123,
+      "id": 4
+    },
+    {
+      "name": "All star",
+      "price": 123,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 7
+    },
+    {
+      "name": "Mouse",
+      "price": "1200",
+      "id": 8
+    }
+  ]
+}
